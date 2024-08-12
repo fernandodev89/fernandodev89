@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando David Contreras Moran</h1>
-<p align='justify'>
-Hello! I'm a 20-year-old programmer from Guatemala with an insatiable passion for learning and growing in the world of technology. Since I discovered my love for programming, I've dedicated every moment to improving my skills and looking for new opportunities to put what I've learned into practice. I love facing challenges, solving problems, and collaborating on projects that drive my development and allow me to stand out. <br><br>My goal is to contribute to innovative teams, learn from the best in the industry, and of course, leave my mark on every project I participate in. I'm always looking for new experiences that allow me to continue growing, both personally and professionally. <br><br>If you're looking for someone with energy, dedication, and a great desire to contribute, I'm more than ready to take on the challenge. Let's create something amazing together!
-</p>
+<h3 align='justify'>
+Hello! I'm a 20-year-old programmer from Guatemala with an insatiable passion for learning and growing in the world of technology. My goal is to contribute to innovative teams, learn from the best in the industry, and of course, leave my mark on every project I participate in. I'm always looking for new experiences that allow me to continue growing, both personally and professionally. <br><br>If you're looking for someone with energy, dedication, and a great desire to contribute, I'm more than ready to take on the challenge. Let's create something amazing together!
+</h3>
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://dev.to/fernandodev89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fernandodev89" height="30" width="40" /></a>
