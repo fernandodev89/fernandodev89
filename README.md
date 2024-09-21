@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernando David Contreras Moran</h1>
 <h3 align='justify'>
-My goal is to contribute to innovative teams, learn from the best in the industry, and of course, leave my mark on every project I participate in. I'm always looking for new experiences that allow me to continue growing, both personally and professionally. <br><br>If you're looking for someone with energy, dedication, and a great desire to contribute, I'm more than ready to take on the challenge. Let's create something amazing together!
+My goal is to contribute to innovative teams, learn from the best in the industry, and of course, leave my mark on every project I participate in. I'm always looking for new experiences that allow me to continue growing, both personally and professionally. <br><br>
 </h3>
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
