@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fernando David Contreras Moran</h1>
+<h1 align="center">Hola 👋, Soy Fernando David Contreras Moran</h1>
 <h3 align='justify'>
-My goal is to contribute to innovative teams, learn from the best in the industry, and of course, leave my mark on every project I participate in. I'm always looking for new experiences that allow me to continue growing, both personally and professionally. <br><br>
+Soy un desarrollar en crecimiento continuo. Mi objetivo es contribuir a equipos innovadores, aprender de los mejores de la industria y por supuesto, dejar mi huella en cada proyecto en el que participo. Siempre estoy buscando nuevas experiencias que me permitan seguir creciendo, tanto a nivel personal como profesional.
+<br><br>
 </h3>
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
